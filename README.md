@@ -21,6 +21,8 @@ Design, build, and administer a comprehensive lab environment to develop and enh
 ### Reports and Findings
 
 - [Nessus results](nessus/)
+- [Nmap results](nmap/)
 - [Splunk results](splunk/)
+- [Suricata results](suricata/)
 - [Remediation](remediation/)
-- [Packet captures](nmap/)
+
